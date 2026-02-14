@@ -151,9 +151,9 @@ Result: This improved output targets the actual risks (contracts and failure mod
 
 ---
 
-# Counterexample — Guideline 5: Work in Short, Iterative Cycles
+### Counterexample — Guideline 5: Work in Short, Iterative Cycles
 
-## 1. Rationale
+
 
 Guideline 5 recommends working in short iterative cycles (generate → review → refine) instead of asking Copilot to do everything in one prompt.
 
@@ -276,6 +276,7 @@ Rules: no tests, no extensibility, no extra examples unless explicitly requested
 ---
 
 ## 6. Documentation: Updated Guideline Applied
+## 1. Rationale
 
 ### Prompt (Improved)
 
